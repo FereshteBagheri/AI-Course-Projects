@@ -1,4 +1,4 @@
-# AI-Cours-Projects
+# AI-Course-Projects
 
 
 
