@@ -55,6 +55,7 @@ This repository contains the completed assignments and projects for the Artifici
    - Explain the architectures of VGG16 and ResNet50.
 
 3. **Code Explanation with Data Augmentation**:
+   - Explain the code that trains the models with data augmentation.
 
 4. **Data Augmentation in CNNs**:
    - Discuss the advantages and disadvantages of data augmentation in Convolutional Neural Networks.
@@ -136,8 +137,8 @@ This repository contains the completed assignments and projects for the Artifici
    - Improving R2 score and RMSE.
 
 6. **Search Algorithms**:
-   - A* Search Algorithm:
-   - Min-max Search:
+   - A* Search Algorithm
+   - Min-max Search
    - Uninformed Search Techniques:
      - Examples and Python scripts for DFS, BFS, and UCS.
    - Constraint Satisfaction Problem:
